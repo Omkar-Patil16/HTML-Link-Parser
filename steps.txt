@@ -1,0 +1,9 @@
+// Notes defining the API
+  - how the end user will use the API 
+  - thinking of designing it based on the use case
+
+// Parser Go
+- create package link 
+- define a link type which return simplified version of a link
+  - href
+  - text
